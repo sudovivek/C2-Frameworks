@@ -7,7 +7,7 @@ With the increasing sophistication of cybersecurity threats, modern C2 framework
 This repository includes two powerful and widely used C2 frameworks:
 
 - **Havoc** – A feature-rich, stealthy C2 framework with advanced encryption, modular payloads, and real-time collaboration for red teams. [Havoc Installation](https://github.com/sudovivek/C2-Frameworks/blob/main/havoc-installation.md)
-- **Merlin** – A cross-platform C2 framework designed for stealth and evasion, offering robust command execution and flexible listener configurations. [Merlin Documentation]()
+- **Merlin** – A cross-platform C2 framework designed for stealth and evasion, offering robust command execution and flexible listener configurations. [Merlin Documentation](https://github.com/sudovivek/C2-Frameworks/blob/main/merlin-installation.md)
 
 ## Features
 
